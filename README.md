@@ -24,6 +24,8 @@ https://docs.google.com/presentation/d/1Kr9OtWNpl3EnUA7c4L5a_nKmT55x_sQi1tUKmkTW
 
 ```git clone https://github.com/andrewperez9/CPP-Search-Engine.git```
 
+2. Install dependencies
+
 **First time build only**:
 
 ```
@@ -33,8 +35,6 @@ nltk.download('punkt')
 nltk.download('wordnet') 
 nltk.download('omw-1.4')
 ```
-
-2. Install dependencies
 
 ```pip install -r requirements.txt```
 
