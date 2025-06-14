@@ -11,6 +11,9 @@ This project is a full-stack search engine that indexes faculty pages from the C
 - Simple front-end to search and view results
 - Uses NLTK for text processing and lemmatization
 
+## Presentation
+https://docs.google.com/presentation/d/1Kr9OtWNpl3EnUA7c4L5a_nKmT55x_sQi1tUKmkTWMFM/edit?usp=sharing
+
 ## Requirements
 - Python 3.7+
 - MongoDB (running locally on port 27017)
