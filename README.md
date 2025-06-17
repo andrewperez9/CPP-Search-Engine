@@ -12,7 +12,7 @@ This project is a full-stack search engine that indexes faculty pages from the C
 - Uses NLTK for text processing and lemmatization
 
 ## Presentation
-https://docs.google.com/presentation/d/1Kr9OtWNpl3EnUA7c4L5a_nKmT55x_sQi1tUKmkTWMFM/edit?usp=sharing
+https://docs.google.com/presentation/d/1wwemX59ivfNctmGTFhGdr9RyHixwHhvYjShvPMSAhFs/edit?usp=sharing
 
 ## Requirements
 - Python 3.7+
